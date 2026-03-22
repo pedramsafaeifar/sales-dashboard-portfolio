@@ -1,0 +1,42 @@
+product_id,product_name,category_id,unit_cost,unit_price,stock_qty
+1,ProBook 450 G10,1,549.00,899.99,62
+2,ThinkPad X1 Carbon,1,820.00,1349.99,17
+3,MacBook Air M3,1,780.00,1199.00,145
+4,Dell XPS 15,1,790.00,1299.99,130
+5,Surface Laptop 5,1,610.00,999.99,119
+6,iPhone 15 Pro,2,680.00,999.00,76
+7,Galaxy S24,2,520.00,849.99,57
+8,Pixel 8,2,420.00,699.00,284
+9,OnePlus 12,2,460.00,799.99,49
+10,USB-C Hub,3,18.00,49.99,221
+11,Wireless Mouse,3,9.50,29.99,21
+12,Mechanical Keyboard,3,32.00,89.99,20
+13,Webcam HD,3,24.00,69.99,52
+14,Laptop Stand,3,14.00,39.99,116
+15,Headset Pro,3,52.00,129.99,124
+16,Standing Desk,4,280.00,599.99,263
+17,Ergonomic Chair,4,195.00,449.99,18
+18,Filing Cabinet,4,75.00,189.99,292
+19,Bookshelf,4,62.00,159.99,106
+20,Paper Ream (10pk),5,22.00,49.99,284
+21,Pen Set,5,3.50,12.99,219
+22,Stapler,5,2.80,9.99,117
+23,Binder Pack,5,6.50,19.99,234
+24,Whiteboard,5,30.00,79.99,147
+25,LaserJet Pro,6,165.00,349.99,8
+26,InkJet All-in-One,6,88.00,199.99,86
+27,Label Printer,6,55.00,129.99,221
+28,Office 365 License,7,20.00,149.99,179
+29,Antivirus Suite,7,8.00,59.99,147
+30,Project Mgmt Tool,7,12.00,99.99,84
+31,Adobe Creative Cloud,7,80.00,599.99,115
+32,WiFi 6 Router,8,72.00,179.99,177
+33,Ethernet Switch 24p,8,105.00,249.99,57
+34,Network Cable Box,8,12.00,34.99,52
+35,1TB SSD,9,38.00,89.99,199
+36,4TB External HDD,9,48.00,109.99,54
+37,NAS 2-Bay,9,140.00,299.99,188
+38,USB Flash 64GB,9,4.50,14.99,181
+39,"27"" 4K Monitor",10,185.00,399.99,140
+40,"34"" Ultrawide",10,260.00,549.99,27
+41,"24"" FHD Monitor",10,90.00,199.99,240

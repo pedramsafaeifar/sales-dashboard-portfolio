@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/sales.db
+.streamlit/secrets.toml
+venv/
+.env

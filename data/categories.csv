@@ -1,0 +1,11 @@
+category_id,category_name,department
+1,Laptops,Electronics
+2,Phones,Electronics
+3,Accessories,Electronics
+4,Office Furniture,Office
+5,Office Supplies,Office
+6,Printers,Office
+7,Software,Technology
+8,Networking,Technology
+9,Storage,Technology
+10,Monitors,Electronics

@@ -1,0 +1,13 @@
+region_id,region_name,country,city
+1,Northeast,USA,New York
+2,Northeast,USA,Boston
+3,Southeast,USA,Miami
+4,Southeast,USA,Atlanta
+5,Midwest,USA,Chicago
+6,Midwest,USA,Detroit
+7,West,USA,Los Angeles
+8,West,USA,Seattle
+9,South,USA,Dallas
+10,South,USA,Houston
+11,Canada,Canada,Toronto
+12,Canada,Canada,Vancouver
